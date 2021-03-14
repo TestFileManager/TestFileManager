@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="fd17bd4d-7653-4757-877c-ae2a1880e7c6" name="TestFileManager">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

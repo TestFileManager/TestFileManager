@@ -1,0 +1,302 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (firstprogram)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/firstprogram/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/firstprogram/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/firstprogram/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/firstprogram/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1277105630" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/firstprogram" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="/usr/local/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1199943126" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (djangoenv)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/djangoenv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/djangoenv/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/djangoenv/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/djangoenv/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/356914551" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/djangoenv" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (AppCurrency)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/AppCurrency/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/AppCurrency/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/AppCurrency/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/AppCurrency/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/765413346" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/AppCurrency" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Parser)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/Parser/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Parser/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Parser/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Parser/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1108521975" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Parser" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Django)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/Django/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Django/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Django/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Django/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/303838021" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Django" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Django2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/Django2/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Django2/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Django2/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Django2/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/518208071" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Django2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (counting_finance)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/counting_finance/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/counting_finance/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/counting_finance/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/counting_finance/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/576721304" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/counting_finance" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (counting_fin)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/counting_fin/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/counting_fin/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/counting_fin/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/counting_fin/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/1344322633" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/counting_fin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (counting_finance) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/counting_finance/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/counting_finance/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/counting_finance/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/counting_finance/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/576721304" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/counting_finance" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (project123)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/PycharmProjects/project123/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/project123/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/project123/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/project123/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/936692163" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/project123" />
+    </jdk>
+  </component>
+</application>
