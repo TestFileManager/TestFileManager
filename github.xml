@@ -3,5 +3,8 @@
     <account id="fd17bd4d-7653-4757-877c-ae2a1880e7c6" name="TestFileManager">
       <server host="github.com" />
     </account>
+    <account id="2e0b6462-e1d0-43dd-8f10-fc52926d670f" name="VitaliyHrebeniuk">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
