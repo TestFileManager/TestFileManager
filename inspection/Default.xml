@@ -5,4 +5,5 @@
       <language minSize="71" name="Python" />
     </Languages>
   </inspection_tool>
+  <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
 </profile>
